@@ -1,11 +1,12 @@
 # Machine-Learning-Models
 
-***************************** By Dev *************************************
+
 Intro : As a machine learning engineer, I developed this project to combine multiple machine learning 
+
 models and train them with different parameters and then test the model trained with other parameters.
 
 
-###Working
+#Working
 
 step -1
 	: Downlaod all files in one folder
